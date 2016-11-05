@@ -1,0 +1,20 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  font-weight: 700;
+  font-family: "Arial", sans-serif;
+  text-transform: uppercase;
+}
+
+h1, .index-content-title {
+  color: #000000;
+  font-size: 30px;
+  line-height: 42px;
+}
+
+h2 {
+  color: #000000;
+  font-size: 24px;
+  line-height: 30px;
+}
